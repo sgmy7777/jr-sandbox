@@ -7,6 +7,12 @@
   flex-grow: 1;
 }
 
+.content-main-title {
+  color: salmon;
+  font-family: sans-serif;
+  font-size: 200%;
+}
+
 .content-sidebar {
   flex-grow: 0;
   flex-shrink: 0;

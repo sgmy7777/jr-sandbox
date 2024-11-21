@@ -1,1 +1,1 @@
-# Example project for students of 2nd group of JavaRush Fullstack course
+# Example project for students of 2nd stream of JavaRush Fullstack course

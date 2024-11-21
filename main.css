@@ -38,3 +38,7 @@
   border: solid 10px red;
   padding: 10px;
 }
+
+.nav-item {
+  font-style: italic;
+}
